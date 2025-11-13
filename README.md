@@ -55,7 +55,8 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/tracksure
 JWT_SECRET=your_secret_key
 JWT_EXPIRES_IN=7d
 CORS_ALLOWED_ORIGIN=https://tracksure-frontend-svc.onrender.com
-git clone https://github.com/Theerthana12/TrackSure-backend.git
+...
+##git clone https://github.com/Theerthana12/TrackSure-backend.git
 cd TrackSure-backend
 npm install
 npm run dev      # or npm start
